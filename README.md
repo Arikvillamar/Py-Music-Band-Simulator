@@ -24,7 +24,7 @@ Clona el repositorio:
 
 bash
 Copiar código
-git clone https://github.com/tu_usuario/music-band-simulator.git
+git clone https://github.com/Arikvillamar/Py-Music-Band-Simulator.git
 cd music-band-simulator
 Asegúrate de tener Python 3 y Matplotlib instalados en tu sistema.
 
